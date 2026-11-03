@@ -1,0 +1,10 @@
+C:\Users\Elite\Desktop\c#.2\Color Dialoge\Color Dialoge\bin\Debug\Color Dialoge.exe.config
+C:\Users\Elite\Desktop\c#.2\Color Dialoge\Color Dialoge\bin\Debug\Color Dialoge.exe
+C:\Users\Elite\Desktop\c#.2\Color Dialoge\Color Dialoge\bin\Debug\Color Dialoge.pdb
+C:\Users\Elite\Desktop\c#.2\Color Dialoge\Color Dialoge\obj\Debug\Color Dialoge.csprojAssemblyReference.cache
+C:\Users\Elite\Desktop\c#.2\Color Dialoge\Color Dialoge\obj\Debug\Color_Dialoge.Form1.resources
+C:\Users\Elite\Desktop\c#.2\Color Dialoge\Color Dialoge\obj\Debug\Color_Dialoge.Properties.Resources.resources
+C:\Users\Elite\Desktop\c#.2\Color Dialoge\Color Dialoge\obj\Debug\Color Dialoge.csproj.GenerateResource.cache
+C:\Users\Elite\Desktop\c#.2\Color Dialoge\Color Dialoge\obj\Debug\Color Dialoge.csproj.CoreCompileInputs.cache
+C:\Users\Elite\Desktop\c#.2\Color Dialoge\Color Dialoge\obj\Debug\Color Dialoge.exe
+C:\Users\Elite\Desktop\c#.2\Color Dialoge\Color Dialoge\obj\Debug\Color Dialoge.pdb
